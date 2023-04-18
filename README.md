@@ -1,2 +1,2 @@
 # html-portfolio
-Sample Portfoilio Project in HTML5
+Sample Portfolio Project in HTML5
